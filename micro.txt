@@ -1,0 +1,7 @@
+Working stages of Git:
+
+Working directory: where we edit, modify files
+
+staging area: files are kept temporary
+
+local repository: where files are saved in local machine
