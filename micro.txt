@@ -1,13 +1,7 @@
-Branching  commands
+Working stages of Git:
 
-1. git branch
+Working directory: where we edit, modify files
 
-2. git branch branch_name
+staging area: files are kept temporary
 
-3. git switch branch_name
-
-4. git checkout branch_name
-
-5. git checkout -b branch_name
-
-6. git branch -a
+local repository: where files are saved in local machine
