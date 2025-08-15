@@ -1,0 +1,13 @@
+git checkout file_name
+
+git checkout .
+
+Reset:
+
+git reset --soft commit_id
+
+git reset --hard commit_id
+
+Revert:
+
+git revert commit_id
