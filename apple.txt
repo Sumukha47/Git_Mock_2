@@ -1,0 +1,16 @@
+Workflow of Git
+
+1. Initialization - git init
+
+2. Configuration - git config user.name "user_name"
+ git config user.email "user_email"
+
+3. Add - git add .
+
+4. Commit - git commit -m "message"
+
+5. Connection -  git remote add origin master
+
+6. Push - git push origin master
+
+7. Pull - git pull origin master
